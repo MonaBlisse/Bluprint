@@ -4,7 +4,7 @@
   "authors": [
     "Rae Capri <raecapri@gmail.com>"
   ],
-  "description": "This is a Wordpress Theme that uses Susy custom grid system, FontAwesome, Sass. Completed with NPM, Bower and Gulp.",
+  "description": "This is a Wordpress Theme that uses Susy custom grid system, FontAwesome, Sass. Built with NPM, Bower and Gulp.",
   "main": "index.php",
   "license": "Copyright 2015 Rae Capri All Rights Reserved",
   "homepage": "demo.raecapri.com/bluprint",
