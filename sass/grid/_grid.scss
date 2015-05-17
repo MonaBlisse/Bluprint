@@ -1,3 +1,5 @@
 @import './bower_components/susy/sass/_susy.scss';
 @import './bower_components/fontawesome/css/font-awesome.css';
 @import 'config';
+
+.container { @include container(95%); }
