@@ -1,0 +1,11 @@
+{
+  "name": "bluprint",
+  "version": "1.0.0",
+  "description": "This is a Wordpress Theme that uses Susy custom grid system, FontAwesome, Sass. Completed with NPM, Bower and Gulp.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rae Capri",
+  "license": "Copyright 2015 Rae Capri All Rights Reserved"
+}
