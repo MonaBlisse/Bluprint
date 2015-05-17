@@ -10,6 +10,7 @@ var gulp = require('gulp'),
 gulp.task('browserSync', function () {
 	var files = [
 	'./css/style.css',
+	'./sass/**/*.scss',
 	'./*.php'
 	];
 
@@ -20,14 +21,14 @@ gulp.task('browserSync', function () {
 });
 
 gulp.task('sass', function () {
-	gulp.src('sass/style.scss')
+	gulp.src('sass/**/*.scss')
 		.pipe(sass())
 		.pipe(gulp.dest('css'))
 		.pipe(browserSync.reload({stream:true, once: true}));
 });
 
 gulp.task('watch', function () {
-	gulp.watch('sass/style.scss', ['sass']);
+	gulp.watch('sass/**/*.scss', ['sass']);
 });
 
 gulp.task('default', ['watch', 'sass', 'browserSync']);
