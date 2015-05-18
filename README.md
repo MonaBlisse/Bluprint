@@ -37,6 +37,31 @@ You would have to manually edit this theme before uploading it to your server. S
 
 Then, update the stylesheet header in `style.css` and the links in `footer.php` with your own information.
 There's a `custom` folder within the `sass` folder, this is for all your custom styling, grid formation, variables, and mixins.
+
+Don't forget to initialize NPM & Bower
+
+```
+npm init
+```
+and
+
+```
+bower init
+```
+
+Follow the input fields to update it with your project information.
+
+Once you've done that, install the dependencies for npm and bower
+
+```
+npm install
+```
+and
+
+```
+bower install
+```
+
 Next, update or delete this readme.
 
 Almost done! Now, you've reached the final step: creating an awesome wordpress themes.
