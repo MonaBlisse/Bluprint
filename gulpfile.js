@@ -17,7 +17,7 @@ gulp.task('browserSync', function () {
 
 	//Initializing BrowserSync with virtual host
 	browserSync.init(files, {
-		proxy: 'wpdev.com',
+		proxy: '<add vhost/domain host here>',
 		notify: false
 	});
 });
