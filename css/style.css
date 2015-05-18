@@ -45,7 +45,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
-@import url(./bower_components/fontawesome/css/font-awesome.css);
+@import url(../bower_components/fontawesome/css/font-awesome.css);
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -223,6 +223,9 @@ th {
   padding: 0; }
 
 /*--------------------------------------------------------------
+# Custom Variables & Mixins
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
 # Typography
 --------------------------------------------------------------*/
 body,
@@ -277,18 +280,6 @@ mark, ins {
 
 big {
   font-size: 125%; }
-
-/*--------------------------------------------------------------
-# Custom Grid System
---------------------------------------------------------------*/
-.container {
-  max-width: 95%;
-  margin-left: auto;
-  margin-right: auto; }
-  .container:after {
-    content: " ";
-    display: block;
-    clear: both; }
 
 /*--------------------------------------------------------------
 # Elements
@@ -588,3 +579,14 @@ a {
 /*--------------------------------------------------------------
 # Media
 --------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Custom Grid System
+--------------------------------------------------------------*/
+.container {
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto; }
+  .container:after {
+    content: " ";
+    display: block;
+    clear: both; }
