@@ -1,12 +1,12 @@
 /*!
 Theme Name: Bluprint
-Theme URI: http://underscores.me/
+Theme URI: http://blog.RaeCapri.com
 Author: Rae Capri
 Author URI: http://RaeCapri.com
 Description: Description
 Version: 1.0.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: MIT
+License URI: http://opensource.org/licenses/MIT
 Text Domain: bluprint
 Tags:
 
@@ -94,22 +94,22 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 /*--------------------------------------------------------------
 # Widgets
 --------------------------------------------------------------*/
-// @import "site/secondary/widgets";
+@import "site/secondary/widgets";
 
 /*--------------------------------------------------------------
 # Content
 --------------------------------------------------------------*/
-// @import "site/site";
+@import "site/site";
 
 /*--------------------------------------------------------------
 # Infinite scroll
 --------------------------------------------------------------*/
-// @import "modules/infinite-scroll";
+@import "modules/infinite-scroll";
 
 /*--------------------------------------------------------------
 # Media
 --------------------------------------------------------------*/
-// @import "media/media";
+@import "media/media";
 
 /*--------------------------------------------------------------
 # Custom Grid System
