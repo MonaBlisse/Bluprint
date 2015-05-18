@@ -8,12 +8,14 @@ var gulp = require('gulp'),
 
 //BrowserSync for starting server
 gulp.task('browserSync', function () {
+	//files to keep a close watch on
 	var files = [
 	'./css/style.css',
 	'./sass/**/*.scss',
 	'./*.php'
 	];
 
+	//Initializing BrowserSync with virtual host
 	browserSync.init(files, {
 		proxy: 'wpdev.com',
 		notify: false
