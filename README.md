@@ -88,13 +88,13 @@ Bluprint uses a number of open source projects to work properly:
 * [Sublime Text 2](http://www.sublimetext.com) - awesome text editor
 * [iTerm](http://iterm2.com) - awesome terminal
 * [Susy](http://susy.oddbird.net) - grid system without the bulk of a framework
+* [FontAwesome](http://fortawesome.github.io/Font-Awesome) - amazing responsive icons as fonts
 * [NPM](https://www.npmjs.com) - package manager
 * [Bower](http://bower.io) - package manager
 * [Gulp](http://gulpjs.com) - task manager
 
 ### Credits
 
-* Contributor(s): Rae Capri
-http://RaeCapri.com, © 2015 Rae Capri, [MIT](http://opensource.org/licenses/MIT)
-* Based on Underscores http://underscores.me/, © 2012-2015 Automattic, Inc., [GPL2](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css http://necolas.github.io/normalize.css/, © 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
+* Contributor(s): [Rae Capri](http://RaeCapri.com), © 2015 Rae Capri, [MIT](http://opensource.org/licenses/MIT)
+* Based on [Underscores](http://underscores.me), © 2012-2015 Automattic, Inc., [GPL2](https://www.gnu.org/licenses/gpl-2.0.html)
+* [normalize.css](http://necolas.github.io/normalize.css), © 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
