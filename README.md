@@ -54,12 +54,12 @@ Follow the input fields to update it with your project information.
 Once you've done that, install the dependencies for npm and bower
 
 ```
-npm install
+npm install --save-dev
 ```
 and
 
 ```
-bower install
+bower install --save-dev
 ```
 
 If you plan on using this theme for your local development environment, make sure you adjust the `gulpfile.js`. On line `17`, change the proxy address to your vhost domain.
