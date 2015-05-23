@@ -62,6 +62,10 @@ and
 bower install
 ```
 
+If you plan on using this theme for your local development environment, make sure you adjust the `gulpfile.js`. On line `17`, change the proxy address to your vhost domain.
+
+> For example, your vhost is setup as a localhost. Once you run the `gulp` command, `BrowserSync` will automatically load up a new page directed at localhost.
+
 Next, update or delete this readme.
 
 Almost done! Now, you've reached the final step: creating an awesome wordpress themes.
