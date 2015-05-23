@@ -95,6 +95,6 @@ Bluprint uses a number of open source projects to work properly:
 ### Credits
 
 * Contributor(s): Rae Capri
-http://RaeCapri.com, (C) 2015 Rae Capri, [MIT](http://opensource.org/licenses/MIT)
-* Based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc., [GPL2](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
+http://RaeCapri.com, © 2015 Rae Capri, [MIT](http://opensource.org/licenses/MIT)
+* Based on Underscores http://underscores.me/, © 2012-2015 Automattic, Inc., [GPL2](https://www.gnu.org/licenses/gpl-2.0.html)
+* normalize.css http://necolas.github.io/normalize.css/, © 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
