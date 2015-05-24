@@ -19,7 +19,7 @@ Hi. I'm a starter theme called Bluprint based on Underscores starter theme. I'm 
 
 ### Getting Started
 
-You would have to manually edit this theme before uploading it to your server. Simply download `bluprint` from GitHub, then you want to copy the `bluprint` directory and change the name to something else (like, say, `awesometheme`), and then you'll need to do a five-step find and replace on the name in all the templates.
+You would have to manually edit this theme before uploading it to your server. Simply download `Bluprint` from GitHub, then you want to copy the `Bluprint` directory and change the name to something else (like, say, `awesometheme`), and then you'll need to do a five-step find and replace on the name in all the templates.
 
 1. Search for `'bluprint'` (inside single quotations) to capture the text domain.
 2. Search for `bluprint_` to capture all the function names.
