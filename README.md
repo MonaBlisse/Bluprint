@@ -11,7 +11,7 @@ Translation-Ready, Custom-Background, Theme-Options, Custom-Menu, Post-Formats, 
 - Requires at least: Wordpress 4.0
 - Tested up to: Wordpress 4.2.2
 - Stable tag: 1.0.0
-- License: MIT @ http://opensource.org/licenses/MIT
+- License: GPL3 @ http://www.gnu.org/licenses/gpl-3.0.html
 
 ### Description
 
@@ -99,6 +99,6 @@ Bluprint uses a number of open source projects to work properly:
 
 ### Credits
 
-* Contributor(s): [Rae Capri](http://RaeCapri.com), © 2015 Rae Capri, [MIT](http://opensource.org/licenses/MIT)
+* Contributor(s): [Rae Capri](http://RaeCapri.com), © 2015 Rae Capri, [GPL3](http://www.gnu.org/licenses/gpl-3.0.html)
 * Based on [Underscores](http://underscores.me), © 2012-2015 Automattic, Inc., [GPL2](https://www.gnu.org/licenses/gpl-2.0.html)
 * [normalize.css](http://necolas.github.io/normalize.css), © 2012-2015 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)

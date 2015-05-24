@@ -6,7 +6,7 @@
   ],
   "description": "This is a Wordpress Theme that uses Susy custom grid system, FontAwesome, Sass. Built with NPM, Bower and Gulp.",
   "main": "index.php",
-  "license": "MIT 2015 Rae Capri",
+  "license": "GPL3 2015 Rae Capri",
   "homepage": "demo.raecapri.com/bluprint",
   "ignore": [
     "**/.*",
