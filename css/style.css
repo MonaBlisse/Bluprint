@@ -45,7 +45,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
-@import url(../bower_components/fontawesome/css/font-awesome.css);
+@import url(../src/fonts/css/font-awesome.css);
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
